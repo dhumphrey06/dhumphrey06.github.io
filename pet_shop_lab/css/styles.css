@@ -1,0 +1,69 @@
+/* This is where we will be
+writing all of your styles */
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,900%7CRoboto:400,700');
+
+body {
+	background-color: lightblue;
+	font-family: 'Heebo', 'Arial', sans-serif;
+	
+}
+
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: normal;
+	font-size: 60px;
+	color: white;
+	text-decoration: none;
+	width: 20px;
+	height: 20px;
+
+}
+
+
+
+
+#firstList {
+    background-color: blue;
+    /*box-sizing: 20px;*/
+   
+
+}
+.fish {
+    color: orange;
+    text-transform: uppercase;
+    font-family: roboto;
+    text-align: left;
+    /*padding: 0 30px	200px	45px;*/
+    /*width: 200px;*/
+    /*height: 200px;*/
+    /*display: inline-block;*/
+}
+/**/
+
+
+.full_width{
+	max-width: 
+}
+
+li {
+    font-size: 18px;
+    border: 2px solid #6600cc;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    justify-content: center;
+
+}
+li:hover {
+	opacity: 0.5
+}
+
+h3 {
+	text-decoration: underline;
+}
